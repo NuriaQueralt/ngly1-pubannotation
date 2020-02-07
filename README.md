@@ -8,5 +8,8 @@ Those are the tasks carried out to obtain a NGLY1 Deficiency annotation data set
 
 
 ## Resources
-[NGLY1 Deficiency PubAnnotation Collection](http://pubannotation.org/collections/ngly1-deficiency)
-[NGLY1 Deficiency PubDictionary](http://pubdictionaries.org/dictionaries/NGLY1-deficiency)
+Resources were developed using the PubAnnotation ecosystem.
+
+* [NGLY1 Deficiency PubAnnotation Collection](http://pubannotation.org/collections/ngly1-deficiency)
+
+* [NGLY1 Deficiency PubDictionary](http://pubdictionaries.org/dictionaries/NGLY1-deficiency)
